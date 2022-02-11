@@ -3,4 +3,4 @@ requests
 youtube_dl
 pafy
 ffmpeg
-
+PyNacl
