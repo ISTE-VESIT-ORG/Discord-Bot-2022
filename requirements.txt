@@ -1,0 +1,5 @@
+discord
+requests
+youtube_dl
+pafy
+
