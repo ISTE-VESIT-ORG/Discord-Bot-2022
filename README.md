@@ -1,6 +1,7 @@
 # Discord-Bot-2022
 
   Discord-Bot using Python:
+  
     Implemented two main features:
     1. Chat Bot
     2. Music Bot
