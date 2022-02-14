@@ -7,7 +7,7 @@
     2. Music Bot
     
     Characteristics of our Chat bot:
-     1.  Greets the user.
+     1. Greets the user.
      2. When given a number, tells you the random fact about that.
      3. can show the server details whenever demanded.
      
