@@ -17,7 +17,7 @@
        3. Bot can Join and Leave the voice channel by simpler commands
        4. Bot can search, play, pause, resume and skip the music for user.
 
-     Music Bot Instructions Link:
+   Music Bot Instructions Link:
      https://docs.google.com/document/d/1INBQ8rfokR6mCrqWW8G7ojPbGCXAOk-H-czm0oJTQY4/edit?usp=sharing
       
    
