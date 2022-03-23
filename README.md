@@ -2,7 +2,7 @@
 
   Discord-Bot using Python:
   
-     Implemented two main features:[Discord bot resources - Google Docs.pdf](https://github.com/ISTE-VESIT-ORG/Discord-Bot-2022/files/8334528/Discord.bot.resources.-.Google.Docs.pdf)
+     Implemented two main features:
 
       1. Chat Bot
       2. Music Bot
